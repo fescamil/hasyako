@@ -24,3 +24,5 @@ Index
 "[Grammar](Grammar.md)" Grammar.  
 "[Lexicon](Lexicon.md)" List of words and english translations.  
 "[Script](Script.md)" Writing system.  
+
+Note: this has been shamelessly copied from this guy's "[project](https://github.com/CasimirKaPazi/balhukbar)"
