@@ -6,12 +6,12 @@ Hasyako Constructed Language
 Version 0.1
 
 
-Language of Hasyako
+Overview of the Language
 -----------------
 
-The current plan is to develop it to a point where it is possible to start learning it.
+The current plan is to develop it as much as possible, then make this repo public and talk about it on like Facebook or my blog or something. Maybe a video? I dunno what I'm doing.
 
-TODO: This will be an example of the language here
+TODO: Here will go some example phrases
 
 TODO: Some notes about the features
 
