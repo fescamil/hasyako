@@ -11,9 +11,9 @@ Overview of the Language
 
 The current plan is to develop it as much as possible, then make this repo public and talk about it on like Facebook or my blog or something. Maybe a video? I dunno what I'm doing.
 
-TODO: Here will go some example phrases
+TODO: Here will go some example sentences and phrases
 
-TODO: Some notes about the features
+TODO: Some notes about features
 
 
 Index
@@ -25,4 +25,4 @@ Index
 [Lexicon](Lexicon.md) List of words and english translations.  
 [Script](Script.md) Writing system.  
 
-Note: this has been shamelessly copied from this guy's [project](https://github.com/CasimirKaPazi/balhukbar)
+Note: this format has been shamelessly copied from [this guy's project](https://github.com/CasimirKaPazi/balhukbar)

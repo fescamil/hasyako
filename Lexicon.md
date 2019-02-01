@@ -2,7 +2,7 @@
 ## Lexicon
 
 ### Verbs
-hasyako| definition			| IPA | notes
+hasyako| definition		 | notes
 --------|-----------------------|-------|-------
 afkoda		| to see
 calsyada		| to stand

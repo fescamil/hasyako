@@ -13,10 +13,10 @@ Phonology
 
 |                   | Bilabial | Labio-dental | Alveolar     | Palatal      | Velar   | Glottal |
 | ----------------- |:--------:|:------------:|:------------:|:------------:|:-------:|:-------:|
-| Plosive           | p        |              |    t         |              | k       |         |
+| Plosive           | p        |              |    t, tʲ         |              | k       |         |
 | Nasal             | m        |              |    n         |      ɲ       |         |         |
 | Trill             |          |              |    r         |              |         |         |
-| Fricative         |          |     v, f     |     s, ʃ     |              |         | h       |
+| Fricative         |          |     v, f     |     s, ʃ, sʲ |              |         | h       |
 | Lateral           |          |              |    l         |      ʎ       |         |         |
 | Approximant       |          |              |              |      j       |         |         |
 
@@ -26,7 +26,6 @@ Phonology
 | Mid   |   e   |         |   o   |
 | Open  |       |    a    |       |
 
-There are also palatalized versions of two more consonants: tʲ, sʲ
 
 Vowels can be short as above or long, which simply holds pronunciation longer (for example aː iː uː eː oː)
 
