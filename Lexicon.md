@@ -23,3 +23,4 @@
 | tirda | to burn |
 | tyavoda | to bite |
 | tyuvoda	| to eat |
+| karmilivrada | to believe |
