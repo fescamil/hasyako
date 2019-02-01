@@ -10,15 +10,15 @@ Phonology
 <div id='Phonemes'/>
 
 ### Phonemes
-TODO: this is not the right phonology, you should fix that
 
-|                   | Bilabial | Linguolabial | Postalveolar | Palatal | Velar | Glottal |
-| ----------------- |:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|
-| Plosive           | p        |          | t        |        | k     |         |
-| Nasal             | m        | n̼ (m̈)        | n        | ɲ (ñ)   |    |         |
-| Trill             |          |              | r        |         |       |         |
-| Fricative         | ɸ (v)    | ð̼ (v̈)        | ʃ (s)    | ç (j)   |       | h     |
-| Lateral           |          | l̼ (ł)        | l        |         |       |         |
+|                   | Bilabial | Labio-dental | Alveolar     | Palatal      | Velar   | Glottal |
+| ----------------- |:--------:|:------------:|:------------:|:------------:|:-------:|:-------:|:--------:
+| Plosive           | p        |              |    t         |              | k       |         |
+| Nasal             | m        |              |    n         |      ɲ       |         |         |
+| Trill             |          |              |    r         |              |         |         |
+| Fricative         |          |     v, f     |     s, ʃ     |              |         | h       |
+| Lateral           |          |              |    l         |      ʎ       |         |         |
+| Approximant       |          |              |              |      j       |         |         |
 
 |       | Front | Central | Back  |
 | ----- |:-----:|:-------:|:-----:|
@@ -26,13 +26,15 @@ TODO: this is not the right phonology, you should fix that
 | Mid   |   e   |         |   o   |
 | Open  |       |    a    |       |
 
+There are also palatalized versions of two more consonants: tʲ, sʲ
 
+Vowels can be short as above or long, which simply holds pronunciation longer (for example aː iː uː eː oː)
 
 <div id='Syllables'/>
 
 ### Syllables
 
-(C)V(C) roughly, hough there are some larger consonant clusters
+(C)V(C) roughly, though there are some larger consonant clusters
 
 
 <div id='Stress'/>
