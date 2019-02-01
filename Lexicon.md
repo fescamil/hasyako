@@ -2,10 +2,10 @@
 ## Lexicon
 
 ### Verbs
-|hasyako| definition		 | notes
+| hasyako | definition | notes
 |--------|-----------------------|-------|-------
-| afkoda		| to see
-| calsyada		| to stand
+| afkoda | to see
+| calsyada | to stand
 | ekakoda | to hear
 | hasyada | to say
 | jensyda | to sit
