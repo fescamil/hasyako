@@ -2,8 +2,8 @@
 ## Lexicon
 
 ### Verbs
-hasyako| definition		 | notes
---------|-----------------------|-------|-------
+|hasyako| definition		 | notes
+|--------|-----------------------|-------|-------
 afkoda		| to see
 calsyada		| to stand
 ekakoda | to hear
