@@ -24,3 +24,26 @@
 | tyavoda | to bite |
 | tyuvoda	| to eat |
 | karmilivrada | to believe |
+
+### Colors
+| hasyako | definition | notes |
+|---------|------------|-------|
+| amaraly | yellow |
+| bulya | white |
+| mitoro | green |
+| tarka | black |
+| vraa | red |
+| ao | blue |
+| nara | orange |
+| vio | purple |
+| sharo | violet |
+| aishi | turquoise |
+| tarkek | gray |
+| shirsh | brown |
+| bulyao | colorless |
+
+
+
+
+
+
