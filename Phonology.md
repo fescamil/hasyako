@@ -10,6 +10,7 @@ Phonology
 <div id='Phonemes'/>
 
 ### Phonemes
+TODO: this is not the right phonology, you should fix that
 
 |                   | Bilabial | Linguolabial | Postalveolar | Palatal | Velar | Glottal |
 | ----------------- |:--------:|:------------:|:--------:|:-------:|:-----:|:-------:|
