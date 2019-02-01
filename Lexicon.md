@@ -18,8 +18,8 @@
 | peshkoda | to swim |
 | pirtamda | to fly |
 | pirtoda | to drink |
-| semsyda	| to lie down | 
-| syimnuda | to sleep | 
+| semsyda	| to lie down |
+| syimnuda | to sleep |
 | tirda | to burn |
 | tyavoda | to bite |
 | tyuvoda	| to eat |
@@ -42,8 +42,61 @@
 | shirsh | brown |
 | bulyao | colorless |
 
-
-
-
-
-
+### Nouns
+| hasyako | definition | notes |
+|---------|------------|-------|
+| af 	|			eye |
+| afsuu	|			tree |
+| akvil	|			water |
+| anor	|			sun |
+| apa	|			bark |
+| ek	|			ear |
+| estil	|			star |
+| hirs	|			horn |
+| isil	|			moon |
+| jenlyi	|			breast |
+| jerv	|			neck |
+| jonya	|			rain |
+| kaa	|			fire |
+| kal	|			tail |
+| karmi	|			heart |
+| karti	|			claw |
+| kasy	|			skin |
+| keru	|			bone |
+| kinlesh	|			sand |
+| klyuf	|			smoke |
+| kon	|			egg |
+| lev	|			foot |
+| lyup	|			tongue |
+| lyuta	|			louse |
+| maan	|			mouth |
+| manyi	|			hand |
+| mne	|			path |
+| naany	|			name |
+| nasy	|			flesh |
+| nye	|			nose |
+| paal	|			mountain |
+| patesh	|			stone |
+| pel	|			head |
+| peshe	|			fish |
+| petyu	|			knee |
+| pirt	|			bird |
+| pistulya	|			hair |
+| plyuf	|			cloud |
+| sanuly	|			blood |
+| shkee	|			ash |
+| sho	|			leaf |
+| sholesh	|			earth |
+| stirula	|			grease |
+| syana	|			person |
+| syu	|			root |
+| tikta	|			tooth |
+| trav	|			night |
+| trenlya	|			woman |
+| tyaa	|			feather |
+| tyaak	|			dog |
+| tymna	|			seed |
+| venoka	|			liver |
+| vert	|			belly |
+| mono	|			thing |
+| monono	|			things |
