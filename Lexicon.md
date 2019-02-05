@@ -24,6 +24,7 @@
 | tyavoda | to bite |
 | tyuvoda	| to eat |
 | karmilivrada | to believe |
+| semda | to be |
 
 ### Colors
 | hasyako | definition | notes |
@@ -100,3 +101,18 @@
 | vert	|			belly |
 | mono	|			thing |
 | monono	|			things |
+
+### Numbers
+| hasyako | definition | notes |
+|---------|------------|-------|
+| nyalu | zero |
+| ee | one |
+| nu | two |
+| sya | three |
+| karta | four |
+| shinya | five |
+| shem | six |
+| kash | seven |
+| lyeko | eight |
+| shee | nine |
+| jarn | ten |
