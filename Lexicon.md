@@ -25,6 +25,8 @@
 | tyuvoda	| to eat |
 | karmilivrada | to believe |
 | semda | to be |
+| niminyaada  | to make, to invent |
+| karmida | to feel (emotionally) |
 
 ### Colors
 | hasyako | definition | notes |
@@ -69,6 +71,7 @@
 | kon	|			egg |
 | lev	|			foot |
 | lyup	|			tongue |
+| lyupko | language, tongue speech |
 | lyuta	|			louse |
 | maan	|			mouth |
 | manyi	|			hand |
