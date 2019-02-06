@@ -18,7 +18,7 @@
 | -vea | adjective marker |
 | -inda | diminutive |
 | -bar | intensifier |
-| -ima | possessive | example: 
+| -ima | possessive | example: anarima - my sun |
 
 ## Direction
 There must always be an external reference when talking abiut directions. There are cardinal direction words (nsew, etc) and theres an affix to indicate “towards “ a thing, sun-ward for example, but there is no “turn left at the next street” type of thing.

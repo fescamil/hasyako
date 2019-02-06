@@ -27,6 +27,7 @@
 | semda | to be, for the purpose of |
 | niminyaada  | to make, to invent |
 | karmida | to feel (emotionally) |
+| nyemiida | to love |
 
 ### Colors
 | hasyako | definition | notes |
