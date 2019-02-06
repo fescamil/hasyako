@@ -123,4 +123,4 @@
 | pukda | to fuck |
 | pukna | fucker, one who fucks |
 | pukvea | fuckish, hot in a sexy way |
-| pukva | fucked, fucky, messed up |
+| pukva | fucked, fucky, messed up, fucking | present tense |
