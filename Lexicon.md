@@ -122,4 +122,5 @@
 |---------|------------|-------|
 | pukda | to fuck |
 | pukna | fucker, one who fucks |
-| pukvea | fucky, hot in a sexy way |
+| pukvea | fuckish, hot in a sexy way |
+| pukva | fucked, fucky, messed up |
