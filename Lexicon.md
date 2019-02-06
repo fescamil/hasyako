@@ -124,3 +124,4 @@
 | pukna | fucker, one who fucks |
 | pukvea | fuckish, hot in a sexy way |
 | pukva | fucked, fucky, messed up, fucking | present tense |
+| muk | ass, buttocks |
