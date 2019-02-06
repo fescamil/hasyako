@@ -120,6 +120,30 @@
 | shee | nine |
 | jarn | ten |
 
+### Misc
+| hasyako | definition | notes |
+|---------|------------|-------|
+| am | I |
+| drely |				good |
+| faas	|			all |
+| jafi	|			hot |
+| keento |	long |
+| kelshi	|	cold |
+| korne		|		round |
+| kref		|		this |
+| krof		|		that |
+| oont		|		full |
+| pomlo		|		many |
+| pruum		|		many |
+| shiko		|		small |
+| shilka	|			dry |
+| syaako	|			big |
+| syam		|		we |
+| syena		|		new |
+| tenya		|		not |
+| tum			|	you |
+
+
 ### Swears
 | hasyako | definition | notes |
 |---------|------------|-------|
