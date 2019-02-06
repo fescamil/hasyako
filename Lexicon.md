@@ -116,3 +116,10 @@
 | lyeko | eight |
 | shee | nine |
 | jarn | ten |
+
+### Swears
+| hasyako | definition | notes |
+|---------|------------|-------|
+| pukda | to fuck |
+| pukna | fucker, one who fucks |
+| pukvea | fucky, hot in a sexy way |
