@@ -24,7 +24,7 @@
 | tyavoda | to bite |
 | tyuvoda	| to eat |
 | karmilivrada | to believe |
-| semda | to be |
+| semda | to be, for the purpose of |
 | niminyaada  | to make, to invent |
 | karmida | to feel (emotionally) |
 
