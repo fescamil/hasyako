@@ -120,6 +120,18 @@
 | shee | nine |
 | jarn | ten |
 
+### Question and Answer words
+| hasyako | definition | notes |
+|---------|------------|-------|
+| kes | who |
+| mida | what |
+| kuidas | how |
+| miks | why |
+| paliu | how much |
+| milal | when |
+| kus | where |
+| mis | which |
+
 ### Misc
 | hasyako | definition | notes |
 |---------|------------|-------|
