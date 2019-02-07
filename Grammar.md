@@ -21,7 +21,7 @@
 | -ima | possessive | example: am anarima - my sun |
 
 ## Direction
-There must always be an external reference when talking abiut directions. There are cardinal direction words (nsew, etc) and theres an affix to indicate “towards “ a thing, sun-ward for example, but there is no “turn left at the next street” type of thing.
+There must always be an external reference when talking about directions. There are cardinal direction words (nsew, etc) and theres an affix to indicate “towards “ a thing, sun-ward for example, but there is no “turn left at the next street” type of thing.
 
 ## Sentence structure
 I was originally thinking SVO for sentance order but it will probably be more flexible than that.
