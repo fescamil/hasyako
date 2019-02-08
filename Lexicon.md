@@ -28,6 +28,7 @@
 | niminyaada  | to make, to invent |
 | karmida | to feel (emotionally) |
 | nyemiida | to love |
+| stilivda | to glitter or twinkle |
 
 ### Colors
 | hasyako | definition | notes |
