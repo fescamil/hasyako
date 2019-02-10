@@ -1,7 +1,7 @@
 
 ## Lexicon
 
-### Verbs
+### Verbs (hasyanana)
 | hasyako | definition | notes |
 |--------|-----------------------|-------|
 | afkoda | to see |
@@ -58,6 +58,7 @@
 | ek	|			ear |
 | estil	|			star |
 | hirs	|			horn |
+| hasyana | verb |
 | isil	|			moon |
 | jenlyi	|			breast |
 | jerv	|			neck |
