@@ -47,7 +47,7 @@
 | shirsh | brown |
 | bulyao | colorless |
 
-### Nouns
+### Nouns (naanynana)
 | hasyako | definition | notes |
 |---------|------------|-------|
 | af 	|			eye |
@@ -80,6 +80,7 @@
 | manyi	|			hand |
 | mne	|			path |
 | naany	|			name |
+| naanyna | noun |
 | nasy	|			flesh |
 | nye	|			nose |
 | paal	|			mountain |
