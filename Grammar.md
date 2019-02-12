@@ -27,6 +27,6 @@ There must always be an external reference when talking about directions. There 
 I was originally thinking SVO for sentance order but it will probably be more flexible than that.
 
 ### Punctuation
-Sentances will end with -koo and -shaa for questions. The script character for the final long vowel on these will be three lines or dots instead of the usual two.
+Sentances will end with -koo and questions with -shaa. The script character for the final long vowel on these will be three lines or dots instead of the usual two.
 
 TODO: type up all remaining grammar notes
