@@ -141,12 +141,12 @@ Pronouns are usually added as a suffix on whichever verb makes the most sense.
 TODO: figure out which verbs make the most sense.  
 | hasyako | definition | notes |
 |---------|------------|-------|
-| am      | I |
-| syam		|		we |
-| tum			|	you |
-| kem     | they, singular |
-| kemem   | they, plural |
-| syam    | we |
+| am | I |
+| syam | we |
+| tum |	you |
+| kem | they, singular |
+| kemem | they, plural |
+| syam | we |
 
 
 
