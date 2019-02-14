@@ -170,7 +170,7 @@ TODO: figure out which verbs make the most sense.
 | shilka	|			dry |
 | syaako	|			big |
 | syena		|		new |
-| tenya		|		not |
+| kat		|		not-, no |
 
 
 ### Swears
