@@ -14,21 +14,27 @@ The current plan is to develop it as much as possible, then make this repo publi
 Here's an example of what the language looks like. This is a translation of 'Twinkle twinkle'
 
 Stiliva, stiliva, estilinda
+
 twinkle, twinkle, little star
 
 Livrabaram sematum mida
+
 I wonder what you are
 
 Binyeshme sholesh binyeshar
+
 Skyward (above) the world very high
 
 patilivea hiita binyesh
+
 diamond-like within the sky
 
 Stiliva, stiliva, estilinda
+
 twinkle, twinkle, little star
 
 Livrabaram sematum mida
+
 I wonder what you are
 
 TODO: Some notes about features
