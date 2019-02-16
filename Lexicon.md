@@ -55,6 +55,7 @@
 | akvil	|			water |
 | anor	|			sun |
 | apa	|			bark |
+| binyesh | sky |
 | ek	|			ear |
 | estil	|			star |
 | hirs	|			horn |
@@ -94,7 +95,7 @@
 | sanuly	|			blood |
 | shkee	|			ash |
 | sho	|			leaf |
-| sholesh	|			earth |
+| sholesh	|			earth, dirt, world |
 | stirula	|			grease |
 | syana	|			person |
 | syu	|			root |
@@ -150,7 +151,16 @@ Pronouns are usually added as a suffix on whichever verb makes the most sense.
 TODO: figure out which verbs make the most sense.  
 
 
-
+### Directions
+| hasyako | definition | notes |
+|---------|------------|-------|
+| binyeshme | up (skyward)|
+| sholeshme | down (earthward) |
+| kelshime | north (coldward) |
+| jafime | south (hotward)|
+| anorme | east (sunward) |
+| isilme | west (moonward) |
+| -me | towards |
 
 ### Misc
 | hasyako | definition | notes |
