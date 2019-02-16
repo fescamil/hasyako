@@ -10,25 +10,25 @@
 | hasyada | to say |
 | jensyda | to sit |
 | jerkoda | to die |
+| karmida | to feel (emotionally) |
+| karmilivrada | to believe |
 | kursyda | to walk |
 | livroda | to know |
 | muloda	| to kill |
+| niminyaada  | to make, to invent |
+| nyemiida | to love |
 | ofsyda	| to give |
 | palsyda	| to come |
 | peshkoda | to swim |
 | pirtamda | to fly |
 | pirtoda | to drink |
+| semda | to be, for the purpose of |
 | semsyda	| to lie down |
+| stilivda | to glitter or twinkle |
 | syimnuda | to sleep |
 | tirda | to burn |
 | tyavoda | to bite |
 | tyuvoda	| to eat |
-| karmilivrada | to believe |
-| semda | to be, for the purpose of |
-| niminyaada  | to make, to invent |
-| karmida | to feel (emotionally) |
-| nyemiida | to love |
-| stilivda | to glitter or twinkle |
 
 ### Colors
 | hasyako | definition | notes |
