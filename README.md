@@ -9,7 +9,7 @@ Version 0.1
 Overview of the Language
 -----------------
 
-The current plan is to develop it as much as possible, then make this repo public and talk about it on like Facebook or my blog or something. Maybe a video? I dunno what I'm doing.
+Hasyako is a constructed language influenced by Estonian, Quenya, Pali and probably some other languages as well. I've taken some words and features directly from these languages, and made up a lot of things just as they take my fancy. The index below should have links to all the documents in this repo, which contains basically everything existant about this language. 
 
 Here's an example of what the language looks like. This is a translation of 'Twinkle twinkle'
 
