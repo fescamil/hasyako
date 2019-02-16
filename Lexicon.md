@@ -33,19 +33,19 @@
 ### Colors
 | hasyako | definition | notes |
 |---------|------------|-------|
-| amaraly | yellow |
-| bulya | white |
-| mitoro | green |
-| tarka | black |
-| vraa | red |
-| ao | blue |
-| nara | orange |
-| vio | purple |
-| sharo | violet |
 | aishi | turquoise |
-| tarkek | gray |
-| shirsh | brown |
+| amaraly | yellow |
+| ao | blue |
+| bulya | white |
 | bulyao | colorless |
+| mitoro | green |
+| nara | orange |
+| sharo | violet |
+| shirsh | brown |
+| tarka | black |
+| tarkek | gray |
+| vraa | red |
+| vio | purple |
 
 ### Nouns (naanynana)
 | hasyako | definition | notes |
@@ -80,12 +80,15 @@
 | maan	|			mouth |
 | manyi	|			hand |
 | mne	|			path |
+| mono	|			thing |
+| monono	|			things |
 | naany	|			name |
 | naanyna | noun |
 | nasy	|			flesh |
 | nye	|			nose |
 | paal	|			mountain |
 | patesh	|			stone |
+| patilive | diamond | stone that sparkles |
 | pel	|			head |
 | peshe	|			fish |
 | petyu	|			knee |
@@ -107,9 +110,6 @@
 | tymna	|			seed |
 | venoka	|			liver |
 | vert	|			belly |
-| mono	|			thing |
-| monono	|			things |
-| patilive | diamond | stone that sparkles |
 
 ### Numbers
 | hasyako | definition | notes |
