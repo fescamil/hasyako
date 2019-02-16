@@ -109,6 +109,7 @@
 | vert	|			belly |
 | mono	|			thing |
 | monono	|			things |
+| patilive | diamond | stone that sparkles |
 
 ### Numbers
 | hasyako | definition | notes |
@@ -181,6 +182,7 @@ TODO: figure out which verbs make the most sense.
 | syaako	|			big |
 | syena		|		new |
 | kat		|		not-, no |
+| hiita | within |
 
 
 ### Swears
