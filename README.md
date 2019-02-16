@@ -11,7 +11,25 @@ Overview of the Language
 
 The current plan is to develop it as much as possible, then make this repo public and talk about it on like Facebook or my blog or something. Maybe a video? I dunno what I'm doing.
 
-TODO: Here will go some example sentences and phrases
+Here's an example of what the language looks like. This is a translation of 'Twinkle twinkle'
+
+Stiliva, stiliva, estilinda
+twinkle, twinkle, little star
+
+Livrabaram sematum mida
+I wonder what you are
+
+Binyeshme sholesh binyeshar
+Skyward (above) the world very high
+
+patilivea hiita binyesh
+diamond-like within the sky
+
+Stiliva, stiliva, estilinda
+twinkle, twinkle, little star
+
+Livrabaram sematum mida
+I wonder what you are
 
 TODO: Some notes about features
 
