@@ -163,6 +163,14 @@ TODO: figure out which verbs make the most sense.
 | isilme | west (moonward) |
 | -me | towards |
 
+### Kinship terms
+
+Starting with the words for parents, the terms are non-gendered. The word for mother indicates 'birth-giver' and the word for father (or other non-mother parent) just indicates 'care-taker' or something similar. 
+
+| hasyako | definition | notes |
+|---------|------------|-------|
+
+
 ### Misc
 | hasyako | definition | notes |
 |---------|------------|-------|
