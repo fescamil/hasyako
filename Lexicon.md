@@ -6,6 +6,7 @@
 |--------|-----------------------|-------|
 | afkoda | to see |
 | calsyada | to stand |
+| donada  | to take care of |
 | ekakoda | to hear |
 | hasyada | to say |
 | jensyda | to sit |
@@ -14,6 +15,7 @@
 | karmilivrada | to believe |
 | kursyda | to walk |
 | livroda | to know |
+| momada | to give birth |
 | muloda	| to kill |
 | niminyaada  | to make, to invent |
 | nyemiida | to love |
@@ -165,10 +167,15 @@ TODO: figure out which verbs make the most sense.
 
 ### Kinship terms
 
-Starting with the words for parents, the terms are non-gendered. The word for mother indicates 'birth-giver' and the word for father (or other non-mother parent) just indicates 'care-taker' or something similar. 
+Starting with the words for parents, the terms are non-gendered. The word for mother indicates 'birth-giver' and the word for father (or other non-mother parent) just indicates 'care-taker' or something similar.
 
 | hasyako | definition | notes |
 |---------|------------|-------|
+| momana  | mother     | 'birth-giver'|
+| dodana  | father, parent     | 'care-taker' |
+| syamomana | honored mother, grandmother |
+| syadodana | honored parent, grandfather |
+
 
 
 ### Misc
