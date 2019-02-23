@@ -175,6 +175,9 @@ Starting with the words for parents, the terms are non-gendered. The word for mo
 | dodana  | father, parent     | 'care-taker' |
 | syamomana | honored mother, grandmother |
 | syadodana | honored parent, grandfather |
+| kermanly | sibling, brother, sister |
+| sekermanly | cousin |
+
 
 
 
