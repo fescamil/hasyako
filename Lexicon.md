@@ -1,7 +1,7 @@
 
 ## Lexicon
 
-### Verbs (hasyanana)
+### Verbs infinitive (hasyanana)
 | hasyako | definition | notes |
 |--------|-----------------------|-------|
 | afkoda | to see |
@@ -29,8 +29,15 @@
 | stilivda | to glitter or twinkle |
 | syimnuda | to sleep |
 | tirda | to burn |
+| travkoda | to dream | "to night see" |
 | tyavoda | to bite |
 | tyuvoda	| to eat |
+
+### Verbs in other forms
+| hasyako | definition | notes |
+|--------|-----------------------|-------|
+| travkosy | dreaming | "night seeing" |
+
 
 ### Colors
 | hasyako | definition | notes |
@@ -106,6 +113,7 @@
 | syu	|			root |
 | tikta	|			tooth |
 | trav	|			night |
+| travkosylesh | the dreaming place | "night seeing place" |
 | trenlya	|			woman |
 | tyaa	|			feather |
 | tyaak	|			dog |
