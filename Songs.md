@@ -12,11 +12,7 @@ Stiliva, stiliva, estilinda
 
 Livrabaram sematum mida
 
-<<<<<<< HEAD
 ## Twinkle, Twinkle
-=======
-### Twinkle, Twinkle
->>>>>>> 281d2eee596dae24297216ff8a6b21cbc3dee01b
 
 Twinkle, twinkle, little star
 
