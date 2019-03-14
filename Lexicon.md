@@ -62,6 +62,7 @@
 | af 	|			eye |
 | afsuu	|			tree |
 | akvil	|			water |
+| akvilbar | ocean |
 | anor	|			sun |
 | apa	|			bark |
 | binyesh | sky |
