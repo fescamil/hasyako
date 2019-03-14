@@ -112,6 +112,7 @@
 | syana	|			person |
 | syu	|			root |
 | tikta	|			tooth |
+| tinya |      grass |
 | trav	|			night |
 | travkosylesh | the dreaming place | "night seeing place" |
 | trenlya	|			woman |
