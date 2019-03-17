@@ -118,6 +118,7 @@
 | travkosylesh | the dreaming place | "night seeing place" |
 | trenlya	|			woman |
 | tyaa	|			feather |
+| tyaakvilbar | sea-foam | feather of the sea |
 | tyaak	|			dog |
 | tymna	|			seed |
 | venoka	|			liver |
