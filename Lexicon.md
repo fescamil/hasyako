@@ -26,6 +26,7 @@
 | pirtoda | to drink |
 | semda | to be, for the purpose of |
 | semsyda	| to lie down |
+| semisda | to bow |
 | stilivda | to glitter or twinkle |
 | syimnuda | to sleep |
 | tirda | to burn |
