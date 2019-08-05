@@ -71,6 +71,7 @@
 | estil	|			star |
 | hirs	|			horn |
 | hasyana | verb |
+| hasykaya | mental body, mind | see ruukaya and kaya
 | isil	|			moon |
 | jenlyi	|			breast |
 | jerv	|			neck |
@@ -80,6 +81,7 @@
 | karmi	|			heart |
 | karti	|			claw |
 | kasy	|			skin |
+| kaya |       body | physical or mental body (see ruukaya and hasykaya)
 | keru	|			bone |
 | kinlesh	|			sand |
 | klyuf	|			smoke |
@@ -106,6 +108,7 @@
 | pirt	|			bird |
 | pistulya	|			hair |
 | plyuf	|			cloud |
+| ruukaya | physical body (see kaya)
 | sanuly	|			blood |
 | shkee	|			ash |
 | sho	|			leaf |
