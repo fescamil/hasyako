@@ -9,6 +9,7 @@
 | donada  | to take care of |
 | ekakoda | to hear |
 | hasyada | to say |
+| hirida  | to follow ones conscience |
 | jensyda | to sit |
 | jerkoda | to die |
 | karmida | to feel (emotionally) |
@@ -20,6 +21,7 @@
 | niminyaada  | to make, to invent |
 | nyemiida | to love |
 | ofsyda	| to give |
+| otapada | to have respect for others |
 | palsyda	| to come |
 | peshkoda | to swim |
 | pirtamda | to fly |
