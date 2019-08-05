@@ -199,11 +199,13 @@ Starting with the words for parents, the terms are non-gendered. The word for mo
 | drely |				good |
 | faas	|			all |
 | jafi	|			hot |
+| katmnevea | unskillful |
 | keento |	long |
 | kelshi	|	cold |
 | korne		|		round |
 | kref		|		this |
 | krof		|		that |
+| mnvea   | skillful | “path-ish”
 | oont		|		full |
 | pomlo		|		many |
 | pruum		|		many |
