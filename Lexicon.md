@@ -67,6 +67,7 @@
 | akvil	|			water |
 | akvilbar | ocean |
 | anor	|			sun |
+| anorlesh | day | “sun place”
 | apa	|			bark |
 | binyesh | sky |
 | ek	|			ear |
