@@ -49,8 +49,8 @@
 | amaraly | yellow |
 | ao | blue |
 | bulya | white |
-| faaskoda | all colors, rainbow | "all see" |
-| katbulya | colorless |
+| faaskoda | all colors, rainbow | "all see"
+| katbulya | colorless | "not white"
 | mitoro | green |
 | nara | orange |
 | sharo | violet |
@@ -59,6 +59,17 @@
 | tarkek | gray |
 | vraa | red |
 | vio | purple |
+
+### Days of the week
+| hasyako | definition | notes |
+|---------|------------|-------|
+| bulyanor | Sunday | White sun
+| aonor | Monday | Blue Sun
+| tarkanor | tuesday | black sun
+| vraanor | wednesday | red sun
+| mitoranor | thursday | green sun
+| faaskodanor | friday | all color, rainbow sun
+| katbulyanor | saturday | colorless sun
 
 ### Nouns (naanynana)
 | hasyako | definition | notes |
