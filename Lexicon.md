@@ -10,6 +10,7 @@
 | ekakoda | to hear |
 | hasyada | to say |
 | hirida  | to follow ones conscience |
+| ida     | to do, to take an action |
 | jensyda | to sit |
 | jerkoda | to die |
 | karmida | to feel (emotionally) |
