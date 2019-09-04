@@ -49,6 +49,7 @@
 | amaraly | yellow |
 | ao | blue |
 | bulya | white |
+| faaskoda | all colors, rainbow | "all see" |
 | katbulya | colorless |
 | mitoro | green |
 | nara | orange |
