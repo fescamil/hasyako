@@ -219,6 +219,8 @@ Starting with the words for parents, the terms are non-gendered. The word for mo
 | syena		|		new |
 | kat		|		not-, no |
 | hiita | within |
+| valafan | thank you
+
 
 
 ### Swears
