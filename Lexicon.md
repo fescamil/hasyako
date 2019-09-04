@@ -87,6 +87,7 @@
 | hirs	|			horn |
 | hasyana | verb |
 | hasykaya | mental body, mind | see ruukaya and kaya
+| ikta | peace |
 | isil	|			moon |
 | jenlyi	|			breast |
 | jerv	|			neck |
@@ -230,6 +231,8 @@ Starting with the words for parents, the terms are non-gendered. The word for mo
 | syena		|		new |
 | kat		|		not-, no |
 | hiita | within |
+| valafan | thank you
+
 
 
 ### Swears
