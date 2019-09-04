@@ -49,7 +49,7 @@
 | amaraly | yellow |
 | ao | blue |
 | bulya | white |
-| bulyao | colorless |
+| katbulya | colorless |
 | mitoro | green |
 | nara | orange |
 | sharo | violet |
