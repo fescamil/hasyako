@@ -5,11 +5,13 @@
 | hasyako | definition | notes |
 |--------|-----------------------|-------|
 | afkoda | to see |
+| alaatida | to accept |
 | calsyada | to stand |
 | donada  | to take care of |
 | ekakoda | to hear |
 | hasyada | to say |
 | hirida  | to follow ones conscience |
+| ida     | to do, to take an action |
 | jensyda | to sit |
 | jerkoda | to die |
 | karmida | to feel (emotionally) |
@@ -26,11 +28,13 @@
 | peshkoda | to swim |
 | pirtamda | to fly |
 | pirtoda | to drink |
+| samida | to bring order, to put in order |
 | semda | to be, for the purpose of |
 | semsyda	| to lie down |
 | semisda | to bow |
 | stilivda | to glitter or twinkle |
 | syimnuda | to sleep |
+| syukada | to grasp ruthlessly |
 | tirda | to burn |
 | travkoda | to dream | "to night see" |
 | tyavoda | to bite |
@@ -39,7 +43,13 @@
 ### Verbs in other forms
 | hasyako | definition | notes |
 |--------|-----------------------|-------|
+| alaatisy | accepting |
+| isy | doing |
+| livrosy | knowing |
+| samisy | putting in order |
+| syukasy | grasping ruthlessly |
 | travkosy | dreaming | "night seeing" |
+
 
 
 ### Colors
