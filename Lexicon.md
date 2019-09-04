@@ -75,6 +75,7 @@
 | hirs	|			horn |
 | hasyana | verb |
 | hasykaya | mental body, mind | see ruukaya and kaya
+| ikta | peace |
 | isil	|			moon |
 | jenlyi	|			breast |
 | jerv	|			neck |
